@@ -1,0 +1,3 @@
+After obtain the antenna response function in water, we put some salt in it in order to change the conductivity.
+The files are the datum and codes to calculate response function in salt water in dfferent conductivity(concentration).
+We put 5g, 10g and 20g salt in the water (30cm*30cm*60cm).
