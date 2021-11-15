@@ -1,5 +1,5 @@
 # antenna_response_function
-Together with the antenna group in Southern Universtiy of Science and Tehcnology: Xianming Zheng, Qingbao He, Xuanyu Shang, Shi Tao and Qinyang Dong
+Together with the antenna group(small) in Southern Universtiy of Science and Tehcnology: Xianming Zheng, Xuanyu Shang, Shi Tao
 
 We carried out a series of experiments to determine the response function of the double probe antenna
 we take the experiment in water in order to simulate the space plasma environment
